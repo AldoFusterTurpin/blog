@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://aldofusterturpin.github.io/blog/</loc>
     <lastmod>2021-08-22T20:32:33+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/paddock-management/</loc>
+    <loc>https://aldofusterturpin.github.io/blog/posts/paddock-management/</loc>
     <lastmod>2021-08-22T20:32:33+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://aldofusterturpin.github.io/blog/posts/</loc>
     <lastmod>2021-08-22T20:32:33+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://aldofusterturpin.github.io/blog/about/</loc>
     <lastmod>2021-08-22T20:23:52+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://aldofusterturpin.github.io/blog/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://aldofusterturpin.github.io/blog/tags/</loc>
   </url>
 </urlset>
