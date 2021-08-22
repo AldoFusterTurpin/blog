@@ -1,0 +1,19 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Aldo Fuster Turpin blog '
+theme = "tale"
+[Author]
+    name = "Aldo Fuster Turpin"
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    title = "About mes"
+    url = "/about/"
+    weight = 0
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = 0
