@@ -1,6 +1,6 @@
 baseURL = 'https://aldofusterturpin.github.io/blog/'
 languageCode = 'en-us'
-title = 'Aldo Fuster Turpin blog '
+title = 'SOLID Engineer'
 theme = "tale"
 [Author]
     name = "Aldo Fuster Turpin"
@@ -17,3 +17,6 @@ theme = "tale"
     title = "Posts"
     url = "/posts/"
     weight = 0
+
+[params]
+  css = ["css/styles.css"]
